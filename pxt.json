@@ -1,6 +1,6 @@
 {
     "name": "neomatrix",
-    "version": "0.1.6",
+    "version": "0.1.7",
     "description": "NeoMatrix Display",
     "license": "MIT",
     "dependencies": {
@@ -16,6 +16,6 @@
     "extension": {
         "namespace": "neomatrix",
         "label": "NeoMatrix Editor",
-        "localUrl": "https://kittenbot.github.io/pxt-neomatrix/index.html"
+        "localUrl": "https://kittenbothk.github.io/pxt-neomatrix/index.html"
     }
 }
