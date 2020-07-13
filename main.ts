@@ -75,6 +75,8 @@ namespace neomatrix {
             s = s % 32;
             rgbBuf.rotate(-s * 8 * 3 * 2);
             ws2812b.sendBuffer(rgbBuf, rgbPin);
+        } else {
+            //testing
         }
         // todo: support 16x16 shift
         basic.pause(ms)
